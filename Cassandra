@@ -1,1 +1,13 @@
+2017-02-28 
 Cassandra 框架理解：http://www.360doc.com/content/16/0624/06/6902273_570291132.shtml
+
+2017-03-01
+Cassandra installation: >brew install cassandra
+安装后运行：>brew services start cassandra
+然后用CQL操作数据库：运行cqlsh
+理解关键概念和数据模型 
+－https://my.oschina.net/silentriver/blog/182678
+－http://dongxicheng.org/nosql/cassandra-data-model/
+
+
+ 
