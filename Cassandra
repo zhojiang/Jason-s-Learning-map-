@@ -1,5 +1,6 @@
 2017-02-28 
 Cassandra 框架理解：http://www.360doc.com/content/16/0624/06/6902273_570291132.shtml
+<<<<<<< HEAD
 
 2017-03-01
 Cassandra installation: >brew install cassandra
@@ -11,3 +12,6 @@ Cassandra installation: >brew install cassandra
 
 
  
+=======
+为什么用Cassandra： https://www.slideshare.net/planetcassandra/how-we-used-cassandrasolr-to-build-realtime-analytics-platform
+>>>>>>> 433e9059dcbfc1ecbecd9ce90d53ee089d344753
